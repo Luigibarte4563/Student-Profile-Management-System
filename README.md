@@ -47,3 +47,43 @@ The **Student Profile Management System (SPMS)** is a lightweight, JSON-based we
 
 ## Folder Structure
 
+student-profile-system/
+│
+├── data/
+│ └── students.json # JSON file storing all student profiles
+│
+├── auth/
+│ └── auth.php # Combined login & registration
+│
+├── student/
+│ ├── dashboard.php # Student dashboard
+│ ├── profile.php # View/Edit profile
+│ └── delete.php # Delete profile
+│
+└── README.md # This file
+
+
+---
+
+## Usage
+
+1. **Register:** Fill in name, email, and password on the registration form.
+2. **Login:** Use your registered email and password.
+3. **Dashboard:** After login, see a personalized greeting and options to view/edit your profile or logout.
+4. **Update Profile:** Edit your Name, Course, Year, and Contact Info.
+5. **Delete Profile:** Permanently remove your student profile. Option to register again after deletion.
+
+---
+
+## Notes
+
+- This system is designed for **small-scale use** and educational purposes.
+- For production-level applications, consider **using a database** (MySQL/PostgreSQL) and **more advanced security measures**.
+
+---
+
+## Author
+
+**Luigi Barte**  
+2nd Floor, MC Premiere Building, Balintawak EDSA, Quezon City, Philippines, 1181
+
