@@ -85,5 +85,4 @@ student-profile-system/
 ## Author
 
 **Luigi Barte**  
-2nd Floor, MC Premiere Building, Balintawak EDSA, Quezon City, Philippines, 1181
 
