@@ -1,7 +1,7 @@
 # Student Profile Management System (SPMS)
 
 ## Overview
-The **Student Profile Management System (SPMS)** is a lightweight, JSON-based web application that allows students to register, log in, and manage their own profiles. The system supports **CRUD operations** (Create, Read, Update, Delete) for student profiles, making it simple and efficient for small-scale student management without requiring a database.
+The **Student Profile Management System (SPMS)** is a lightweight, JSON-based web application that allows students to register, log in, and manage their own profiles. The system supports **CRUD operations** (Create, Read, Update, Delete) for student profiles, making it simple and efficient for small-scale student management without requiring a database.    
 
 ---
 
